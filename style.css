@@ -1,0 +1,82 @@
+.heading {
+    font-size: 23px;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    padding-bottom: 20px;
+    width: 30%;
+    border-bottom: 2px solid #f1f1f1;
+}
+
+.image-body {
+    height: 300px;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    background-color: #ccc;
+    border-radius: 5px;
+}
+
+.image {
+    height: 300px;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center center;
+    transition: all ease 0.8s;
+}
+
+.image:hover {
+    transform: scale(1.025);
+    box-shadow: 8px 8px #e2e2e2;
+    margin-top: -8px;
+}
+
+.image1 {
+    background-image: url(img/agLogo.png);
+}
+
+.image2 {
+    background-image: url(img/bride-international.jpg);
+}
+
+.image3 {
+    background-image: url(img/bride.jpg);
+}
+
+.image4 {
+    background-image: url(img/carousel1.jpg);
+}
+
+.image5 {
+    background-image: url(img/carousel8.jpg);
+}
+
+.image6 {
+    background-image: url(img/carousel9.jpg);
+}
+
+.image7 {
+    background-image: url(img/fashion.jpg);
+}
+
+.image8 {
+    background-image: url(img/Groom-Make-Up.jpg);
+}
+
+.image9 {
+    background-image: url(img/img6.jpg);
+}
+
+.line {
+    color: grey;
+}
+
+footer {
+    color: grey;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 20px;
+
+}
